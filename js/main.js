@@ -7,11 +7,6 @@ $(document).ready(function () {
         e.preventDefault();
         $(document).off("scroll");
 
-        $('a').each(function () {
-            $(this).removeClass('active');
-        })
-        $(this).addClass('active');
-
         var target = this.hash,
             menu = target;
         $target = $(target);
