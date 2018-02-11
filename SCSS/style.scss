@@ -176,6 +176,14 @@ body {
             color: $darkteal;
         }
     }
+    .email-small {
+        a:link {
+            color: $navy;
+        }
+        a:visited {
+            color: $darkteal;
+        }
+    }
 }
 
 #footer {

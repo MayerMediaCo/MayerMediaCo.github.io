@@ -134,6 +134,12 @@ body {
   #contact .email a:visited {
     color: #2b7a78; }
 
+#contact .email-small a:link {
+  color: #17252A; }
+
+#contact .email-small a:visited {
+  color: #2b7a78; }
+
 #footer {
   background-color: #17252A;
   color: #FEFFFF; }
